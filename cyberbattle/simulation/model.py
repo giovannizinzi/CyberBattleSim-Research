@@ -25,7 +25,7 @@ formally defined by:
 """
 
 from datetime import datetime, time
-from typing_extensions import NamedTuple, List, Dict, Optional, Union, Tuple, Iterator
+from typing import NamedTuple, List, Dict, Optional, Union, Tuple, Iterator
 import dataclasses
 from dataclasses import dataclass
 import matplotlib.pyplot as plt  # type:ignore
