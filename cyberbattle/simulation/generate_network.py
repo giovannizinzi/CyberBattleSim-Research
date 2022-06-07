@@ -7,7 +7,7 @@ import numpy as np
 import networkx as nx
 from cyberbattle.simulation import model as m
 import random
-from typing import List, Optional, Tuple, DefaultDict
+from typing_extensions import List, Optional, Tuple, DefaultDict
 
 from collections import defaultdict
 
